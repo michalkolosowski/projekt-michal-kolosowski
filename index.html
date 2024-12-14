@@ -127,9 +127,9 @@
                 minGap = 150;
                 maxGap = 400;
                 gap = Math.floor(Math.random() * (maxGap - minGap + 1) + minGap);
-                myObstacles.push(new component(40, height, "green", x, 0));
+                myObstacles.push(new component(10, height, "green", x, 0));
                 myObstacles.push(
-                    new component(40, x - height - gap, "green", x, height + gap)
+                    new component(10, x - height - gap, "green", x, height + gap)
                 );
             }
             for (i = 0; i < myObstacles.length; i += 1) {
