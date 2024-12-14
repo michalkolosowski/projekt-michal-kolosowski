@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>Kuchnia Panamska</title>
+  </head>
+  <body>
+    <h1>Kuchnia Panamska</h1>
+    <img src="images/panama.jpg" alt="Kuchnia Panamska">
+    <p>Kuchnia panamska to wyjątkowe połączenie smaków karaibskich, latynoamerykańskich i wpływów afrykańskich. Charakteryzuje się świeżymi składnikami, takimi jak ryby, owoce morza, banany, kukurydza i egzotyczne owoce</p>
+  </body>
+</html>
